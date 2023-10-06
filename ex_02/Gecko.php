@@ -16,6 +16,6 @@ class Gecko {
 
 }
 
-new Gecko();
+/*new Gecko();
 
-new Gecko("toto");
+new Gecko("toto");*/
