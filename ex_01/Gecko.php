@@ -4,10 +4,10 @@ class Gecko {
     
     public function __construct() 
     {    
-    echo 'Hello !' . "\n";
+    echo 'Hello !' . PHP_EOL;
     }
 
 }
 
-new Gecko();
+//new Gecko();
 
