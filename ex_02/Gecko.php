@@ -8,7 +8,7 @@ class Gecko {
         
         {
             $this -> name = $name;
-            echo "Hello $name ! \n";
+            echo "Hello $name !";
         }
         
          else {echo 'Hello !' . PHP_EOL;}
